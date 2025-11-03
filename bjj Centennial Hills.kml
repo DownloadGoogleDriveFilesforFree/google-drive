@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>bjj Centennial Hills</name>
+	<gx:CascadingStyle kml:id="__managed_style_0DB54520512297F0A7E4">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1196FB0ADE2297F0A7E3">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0DCB0FAC922297F0A7E3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1196FB0ADE2297F0A7E3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0DB54520512297F0A7E4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0F128155B52297D04339">
+		<name>Drysdale Fight For Us Jiu Jitsu</name>
+		<description><![CDATA[<div><a href="https://sites.google.com/view/bjjcentennialhills/">bjj Centennial Hills</a><br></div>]]></description>
+		<Camera>
+			<gx:ViewerOptions>
+				<gx:option name="streetview"></gx:option>
+				<gx:streetViewPanoId>8CUTBfI2aBXIb2y8alOB8w</gx:streetViewPanoId>
+			</gx:ViewerOptions>
+			<longitude>-115.2487132190439</longitude>
+			<latitude>36.26175096573488</latitude>
+			<altitude>715.6369018554688</altitude>
+			<heading>255.8880156854952</heading>
+			<tilt>85.30097735093342</tilt>
+			<roll>0</roll>
+			<gx:fovy>59.99999999999999</gx:fovy>
+			<altitudeMode>absolute</altitudeMode>
+		</Camera>
+		<styleUrl>#__managed_style_0DCB0FAC922297F0A7E3</styleUrl>
+		<gx:Carousel>
+			<gx:Image kml:id="youtube_video_EsqRsZK1RZ4_0">
+				<gx:ImageUrl>https://img.youtube.com/vi/EsqRsZK1RZ4/hqdefault.jpg</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92YUVEeDV5Vk9lMHlQZ200RUVKdzlHQmF3MGdmRzN5OENaSjV5bmsrNjlzNVhnTnZNbjQ1Z3A5ajdseGdvNXYxZ1NnL2VZRmlRQU50Y1UvWFJ2d2Q2dk9UVXhiSGpVWnpTajk2YnhrVFFaQzJVdy9oUUl2NDQ3bXpVNWJBcmR3ekhuRy9pZDU5U2xDZWlROHNmQWRYMGV2V0pOVzcvRFVmYVU2MnV0RysrWEdhSWhWYWNzNEpBVGg3SDZBSUhVNVRmMDhRcXhPaVM0RWdKeHQyUGtXamt1aFRQbzl6c1B3NXo3NW54VEo3OHZjVm1objFnPT0">
+				<gx:ImageUrl>https://doc-08-c0-mymaps.googleusercontent.com/untrusted/hostedimage/nom9i05bpp0of2qpdp43a29fgs/a7vr4j78k0l9tp9s6uc218r22s/1655215562000/K94cB1n-YzomRzV27JV9QRqpKOrAEUAQ/13703237984497438862/5AIsG_vYVKbE01TEbYqkmChePStmFOSC0lnUFv3nY7XZkVA1eHGHi5QsB75eilHPKhwxRONMOg8mDKB_DEfehWHwX0IbEa8QVbBZZiSlaKONsbuDYAZ0JdP8udAn2kl-gePFvxSzEYkfQtem4s-guDuJzaKzW-l-1eAOCyG8VQcef3pYXx-5cxRQscclRkq-eAh6LuJ0?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92Ym85SUFFRUpaUkN3TnpFWitUV1dtQ0dEc0VZQ0srM2gyQWJndEtpUE1uaHJ5S2prMzljdjhZdDZJZUZPbXlzekJzbngvb0lWait5d0pHR09KYTdDdUp4TUNtWkFMMXBmTmZpeWh3MjU4S21GYllMNzhoM1c0aEx6czRlRzRyT0tXSm9qdU9KQVQvZDd2eWJ0RElsOXIxcENPVGZlZHV4UWNwK1NsUi95SG0rbDNjQkROVHpZWEJzbk1JMDZEd0l0eTdrNU1WYUFWTmhTdmU3M3NQSHpoTUVEeGIydzRRZmtsZUdjT29uUUdhRHZwVjB3PT0_0">
+				<gx:ImageUrl>https://doc-0c-c0-mymaps.googleusercontent.com/untrusted/hostedimage/nom9i05bpp0of2qpdp43a29fgs/obgj21u7s5ha0vtp448p303nv0/1655215562000/K94cB1n-YzomRzV27JV9QRqpKOrAEUAQ/13703237984497438862/5AIsG_vY4Rak8EskvrARZdu8BVa4pw3zCZZUvn11A-fgdyyeM5eXXv3RtENRc2eCk-jcNS-sS09bhcFvqS5n8WCe8k2P2d_oshjrX7NOVWC93VdlAm-P4kYDu7zDRrvH1EH1L9qvL45Ez4ipkRVMzkp5xKja3234BBV1K5VjskoO1vndTau0Ofzd7UjlcwHqhFFvl03c?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92Wk5IYWtVaGVuRGMrZ2hiOFRPMFlLMUtzRStjWTlMUEtxYUdweHlkckNocllWZGdXQUlVUFNNYTgvak5FZGVTenhjWUlGN3EzaXFjMXNDNDJhczVjQTUvSWg4L1lrU2FsUU1rRkl1T3JzMjlOZnJZWnNnYnVnNEphMXJPWFhoVC9kM3dEWWNxSEVITkxadXpVSHREcWljdGJGMVRSWjFtY0J6UGw0ZldFYTltZUxIY3pQZHp0eXVBdnZ4N09XWmJCTzNSdzZBQnBLS3dhcXM3K3JsVTFMTG5Fb1E0cGxHUlF0MWlFNW51V2FxY2VHY2ZRPT0">
+				<gx:ImageUrl>https://doc-0s-c0-mymaps.googleusercontent.com/untrusted/hostedimage/nom9i05bpp0of2qpdp43a29fgs/4h6cu3nril78g1qlth4cbib65c/1655215562000/K94cB1n-YzomRzV27JV9QRqpKOrAEUAQ/13703237984497438862/5AIsG_vZMWxmSU9znhW0fjLc6c_u3jForAKZ5phSGjw7tJJZZB9pPqkwaJ8QC4gfRtbU3WjZxdudnvZraXoXEKIv-KmxdweIyh0_e7A7l2ydnIxhuLbXjpQ4vWHrckxPIK9Z2kxqSVSDokag7UL6PFffIAaxJQkIiP84VHiTQztU9Fi9-uyZma4YmNUPeXlTIF6UHNPg?session=0&amp;fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-115.2487132190439,36.26175096573488,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
